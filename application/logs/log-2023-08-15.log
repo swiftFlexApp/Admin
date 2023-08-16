@@ -1,0 +1,88 @@
+ERROR - 2023-08-15 15:54:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 15:54:40 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 15:54:40 --> 404 Page Not Found: Welcome/assets
+ERROR - 2023-08-15 15:54:49 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 15:55:04 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 15:55:18 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 15:55:26 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 15:55:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 15:55:41 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 15:55:55 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:01:43 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:01:51 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:04:53 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:05:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:05:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:05:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:05:29 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:37:19 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:45:00 --> Severity: Warning --> Undefined variable $data C:\xampp\htdocs\flexapp\application\views\withdrawal_requests.php 90
+ERROR - 2023-08-15 16:45:00 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\flexapp\application\views\withdrawal_requests.php 90
+ERROR - 2023-08-15 16:45:00 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:45:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:45:49 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:49:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:49:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:49:12 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:49:47 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:51:33 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:51:34 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:51:35 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:51:35 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:51:35 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:51:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:51:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:51:59 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:51:59 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:52:00 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:52:00 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:52:03 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:52:27 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:55:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:55:10 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:55:11 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:55:25 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 16:55:26 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 17:00:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 17:00:31 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 17:01:43 --> Severity: error --> Exception: Call to undefined method Main_Model::getRejectedRequests() C:\xampp\htdocs\flexapp\application\controllers\Welcome.php 76
+ERROR - 2023-08-15 17:02:01 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 17:02:12 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 17:02:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 18:48:57 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 18:49:00 --> Severity: error --> Exception: Too few arguments to function Welcome::approve_w_request(), 0 passed in C:\xampp\htdocs\flexapp\system\core\CodeIgniter.php on line 532 and exactly 1 expected C:\xampp\htdocs\flexapp\application\controllers\Welcome.php 80
+ERROR - 2023-08-15 18:49:16 --> Severity: error --> Exception: Too few arguments to function Welcome::approve_w_request(), 0 passed in C:\xampp\htdocs\flexapp\system\core\CodeIgniter.php on line 532 and exactly 1 expected C:\xampp\htdocs\flexapp\application\controllers\Welcome.php 80
+ERROR - 2023-08-15 18:49:22 --> Severity: error --> Exception: Too few arguments to function Welcome::approve_w_request(), 0 passed in C:\xampp\htdocs\flexapp\system\core\CodeIgniter.php on line 532 and exactly 1 expected C:\xampp\htdocs\flexapp\application\controllers\Welcome.php 80
+ERROR - 2023-08-15 18:49:23 --> Severity: error --> Exception: Too few arguments to function Welcome::approve_w_request(), 0 passed in C:\xampp\htdocs\flexapp\system\core\CodeIgniter.php on line 532 and exactly 1 expected C:\xampp\htdocs\flexapp\application\controllers\Welcome.php 80
+ERROR - 2023-08-15 18:50:21 --> Severity: Warning --> Undefined property: Welcome::$curl C:\xampp\htdocs\flexapp\application\controllers\Welcome.php 98
+ERROR - 2023-08-15 18:50:21 --> Severity: error --> Exception: Call to a member function simple_post() on null C:\xampp\htdocs\flexapp\application\controllers\Welcome.php 98
+ERROR - 2023-08-15 18:50:55 --> Severity: Warning --> Undefined property: Welcome::$curl C:\xampp\htdocs\flexapp\application\controllers\Welcome.php 98
+ERROR - 2023-08-15 18:50:55 --> Severity: error --> Exception: Call to a member function simple_post() on null C:\xampp\htdocs\flexapp\application\controllers\Welcome.php 98
+ERROR - 2023-08-15 18:51:15 --> Severity: Warning --> Undefined property: Welcome::$curl C:\xampp\htdocs\flexapp\application\controllers\Welcome.php 98
+ERROR - 2023-08-15 18:51:15 --> Severity: error --> Exception: Call to a member function simple_post() on null C:\xampp\htdocs\flexapp\application\controllers\Welcome.php 98
+ERROR - 2023-08-15 18:55:58 --> Unable to load the requested class: Curl
+ERROR - 2023-08-15 18:59:32 --> Non-existent class: CI_Curl
+ERROR - 2023-08-15 18:59:33 --> Non-existent class: CI_Curl
+ERROR - 2023-08-15 19:00:24 --> Severity: Compile Error --> Cannot declare class Curl, because the name is already in use C:\xampp\htdocs\flexapp\system\libraries\Curl.php 15
+ERROR - 2023-08-15 19:00:46 --> Severity: error --> Exception: Call to undefined method Curl::simple_post() C:\xampp\htdocs\flexapp\application\controllers\Welcome.php 99
+ERROR - 2023-08-15 19:19:42 --> Severity: Warning --> Undefined array key "transfer_naration" C:\xampp\htdocs\flexapp\application\controllers\Welcome.php 90
+ERROR - 2023-08-15 19:34:07 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 19:34:46 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 19:35:02 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 19:35:06 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 19:35:09 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 19:35:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 19:35:28 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 19:35:35 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 19:35:39 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 19:35:50 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 19:42:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 19:42:33 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 19:44:24 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 19:58:16 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 19:58:19 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 19:58:21 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 19:58:26 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 19:58:58 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 19:59:29 --> 404 Page Not Found: Assets/plugins
+ERROR - 2023-08-15 20:01:21 --> 404 Page Not Found: Assets/plugins

@@ -1,0 +1,16 @@
+CREATE VIEW view_stock AS
+    SELECT i.product_id, i.product_name, sqty, pqty 
+			FROM
+			(SELECT sum(qty) as pqty, product_id
+			FROM 
+			purchase_detail
+			GROUP BY product_id
+			)p
+			LEFT OUTER JOIN 
+			(SELECT sum(qty) as sqty, product_id
+			FROM 
+			sale_detail
+			GROUP BY product_id
+			)s ON s.product_id = p.product_id
+			JOIN 
+			product i ON i.product_id = p.product_id;
